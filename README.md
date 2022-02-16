@@ -12,6 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Use ngFor with trackBy to improve performance in Angular applications](https://yousafnawaz.medium.com/use-ngfor-with-trackby-to-improve-performance-in-angular-applications-8f9214f8175?source=rss-cbc999449ae2------2)
+- [Deploy Angular Application on Firebase Hosting using angularfire Library](https://yousafnawaz.medium.com/deploy-angular-application-on-firebase-hosting-using-angularfire-library-982803342e41?source=rss-cbc999449ae2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
