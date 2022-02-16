@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousaf</h1>
-<h3 align="center">Accomplished Senior Software Engineer with passion for building responsive websites and have 6+ years of experience in software development mostly freelance/contract. Currently, I am working as frontend angular developer with focus on implementing user friendly interfaces and improving the scalability of frontend applications.</h3>
+<h3 align="center">Software Engineer with passion for building responsive websites and have 6+ years of experience in software development mostly freelance/contract. Currently, I am working as frontend angular developer with focus on implementing user friendly interfaces and improving the scalability of frontend applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousafnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="yousafnawaz" /> </p>
 
