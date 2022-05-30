@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m diving deep in **Angular Framework** and learning **React**
+- 🌱 I’m diving deep in **Angular Framework** and **React**
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
