@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousaf</h1>
-<h3 align="center">An experienced Software Engineer with 6 years of experience, passionate about building web solutions using the latest technologies, agile practices, experienced in working with international teams and clients.</h3>
+<h3 align="center">Experienced Software Engineer, passionate about building web solutions using the latest technologies, agile practices, experienced in working with international teams and clients.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousafnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="yousafnawaz" /> </p>
 
